@@ -23,7 +23,7 @@ Bem-vindo ao meu perfil!
   <img align="center" alt="bootstrap" height=50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="PHP" height=50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="mysql" height=50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="adonis.js" height=50" width="50" src="https://github.com/Lgustavodias/Programaria/commit/abfce3ff8578124defb739e483ddb44d7c2ab3d5#diff-4cb583d658feb32ba2503c4bc977a5b8d0fc92ea3e9b1b3feb8b79906f6478ed">
+  <img align="center" alt="adonis.js" height=50" width="50" src="https://www.google.com/search?q=adonis+svg&oq=adonis+svg&aqs=chrome..69i57j33i160l3.3506j0j7&sourceid=chrome&ie=UTF-8#imgrc=xfagrMQ0m3Y7GM">
 </div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
