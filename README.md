@@ -4,8 +4,8 @@ Bem-vindo ao meu perfil!
 
 
 
-- 🧑‍💻 Desenvolvedor Full Stack
-- 🧑‍💼 Atualmente trabalhando no Grupo Multi
+- 🧑‍💻 Desenvolvedor Back-End
+- 🧑‍💼 Atualmente trabalhando na empresa ClickSoft
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
 - 📧 E-mail: lu-gustavo2011@live.com
 
