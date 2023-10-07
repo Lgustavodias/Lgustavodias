@@ -23,7 +23,7 @@ Bem-vindo ao meu perfil!
   <img align="center" alt="PHP" height=50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="mysql" height=50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Adonis" height=50" width="50" src="https://avatars.githubusercontent.com/u/13810373?s=280&v=4">
-  <img align="center" alt="Typescript" height=50" width="50" src="https://logospng.org/wp-content/uploads/typescript.png">
+  <img align="center" alt="Typescript" height=50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968326.png">
 
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 <h2> Redes Sociais </h2>
