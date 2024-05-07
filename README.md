@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil!
 
 - 🧑‍💻 Desenvolvedor Back-End
 - 🧑‍💼 Atualmente trabalhando na empresa ClickSoft
-- 📚 Cursando Análise e Desenvolvimento de Sistemas
+- 📚 Formado em Análise e Desenvolvimento de Sistemas
 - 📧 E-mail: lu-gustavo2011@live.com
 
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
