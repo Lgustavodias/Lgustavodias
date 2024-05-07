@@ -21,6 +21,7 @@ Bem-vindo ao meu perfil!
   <img align="center" alt="Typescript" height=50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968326.png">
   <img align="center" alt="Postgresql" height=50" width="50" src="https://w7.pngwing.com/pngs/358/849/png-transparent-postgresql-database-logo-database-symbol-blue-text-logo-thumbnail.png">
   <img align="center" alt="AWS" height=50" width="50" src="https://w7.pngwing.com/pngs/544/61/png-transparent-aws-amazon-web-services-brands-and-logos-icon-thumbnail.png">
+   <img align="center" alt="Heroku" height=50" width="50" src="https://e7.pngegg.com/pngimages/855/935/png-clipart-heroku-logo-heroku-logo-icons-logos-emojis-tech-companies.png">
 
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 <h2> Redes Sociais </h2>
