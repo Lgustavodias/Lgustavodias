@@ -16,6 +16,7 @@ Bem-vindo ao meu perfil!
 <h2> Tecnologias Utilizadas </h2>
 
 <div style="display: inline_block"><br>
+   <img align="center" alt="node" height="30" width="40" src="https://w7.pngwing.com/pngs/788/651/png-transparent-code-development-logo-nodejs-logos-icon-thumbnail.png">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mysql" height=50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Adonis" height=50" width="50" src="https://avatars.githubusercontent.com/u/13810373?s=280&v=4">
@@ -24,7 +25,6 @@ Bem-vindo ao meu perfil!
    <img align="center" alt="Docker" height=50" width="50" src="https://w7.pngwing.com/pngs/627/244/png-transparent-docker-logo-logos-logos-and-brands-icon-thumbnail.png">
   <img align="center" alt="AWS" height=50" width="50" src="https://w7.pngwing.com/pngs/544/61/png-transparent-aws-amazon-web-services-brands-and-logos-icon-thumbnail.png">
    <img align="center" alt="Heroku" height=50" width="50" src="https://w7.pngwing.com/pngs/434/165/png-transparent-heroku-original-wordmark-logo-icon.png">
-
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 <h2> Redes Sociais </h2>
   <a href="https://instagram.com/lgustavogdiass/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
