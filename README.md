@@ -16,7 +16,7 @@ Bem-vindo ao meu perfil!
 <h2> Tecnologias Utilizadas </h2>
 
 <div style="display: inline_block"><br>
-   <img align="center" alt="node" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ZvXAFs02fg19pmpZiXpnFAi_1zaUqVQRjrcGNWMV40TvD5n_jBPRX1CFtw43Y_onExE&usqp=CAU">
+   <img align="center" alt="node" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3DNode%2BIcon&psig=AOvVaw2psL3PPLvVxFNBF7OgmWPk&ust=1724502311086000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCB9vWNi4gDFQAAAAAdAAAAABA7">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mysql" height=50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Adonis" height=50" width="50" src="https://avatars.githubusercontent.com/u/13810373?s=280&v=4">
