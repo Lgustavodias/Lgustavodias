@@ -21,7 +21,7 @@ Bem-vindo ao meu perfil!
   <img align="center" alt="mysql" height=50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Adonis" height=50" width="50" src="https://avatars.githubusercontent.com/u/13810373?s=280&v=4">
   <img align="center" alt="Typescript" height=50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968326.png">
-  <img align="center" alt="Postgresql" height=50" width="50" src="https://w7.pngwing.com/pngs/173/36/png-transparent-postgresql-logo-computer-software-database-open-source-s-text-head-snout.png">
+  <img align="center" alt="Postgresql" height=50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png">
    <img align="center" alt="Docker" height=50" width="50" src="https://w7.pngwing.com/pngs/627/244/png-transparent-docker-logo-logos-logos-and-brands-icon-thumbnail.png">
   <img align="center" alt="AWS" height=50" width="50" src="https://w7.pngwing.com/pngs/544/61/png-transparent-aws-amazon-web-services-brands-and-logos-icon-thumbnail.png">
    <img align="center" alt="Heroku" height=50" width="50" src="https://w7.pngwing.com/pngs/434/165/png-transparent-heroku-original-wordmark-logo-icon.png">
