@@ -23,7 +23,8 @@ Bem-vindo ao meu perfil!
   <img align="center" alt="Typescript" height=50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968326.png">
   <img align="center" alt="Postgresql" height=50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png">
    <img align="center" alt="Docker" height=50" width="50" src="https://miro.medium.com/v2/resize:fit:1200/1*glD7bNJG3SlO0_xNmSGPcQ.png">
-  <img align="center" alt="AWS" height=50" width="50" src="https://user-images.githubusercontent.com/2277182/75613896-f24f5800-5b32-11ea-966e-4ed4b41f873a.png">
+  <img align="center" alt="AWS S3" height=50" width="50" src="https://user-images.githubusercontent.com/2277182/75613896-f24f5800-5b32-11ea-966e-4ed4b41f873a.png">
+   <img align="center" alt="AWS Ec2" height=50" width="50" src="https://www.svgrepo.com/show/353449/aws-ec2.svg">
    <img align="center" alt="Heroku" height=50" width="50" src="https://cdn.iconscout.com/icon/free/png-256/free-heroku-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-3-pack-logos-icons-3032415.png">
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 <h2> Redes Sociais </h2>
