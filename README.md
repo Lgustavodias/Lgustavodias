@@ -24,7 +24,7 @@ Bem-vindo ao meu perfil!
   <img align="center" alt="Postgresql" height=50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png">
    <img align="center" alt="Docker" height=50" width="50" src="https://miro.medium.com/v2/resize:fit:1200/1*glD7bNJG3SlO0_xNmSGPcQ.png">
   <img align="center" alt="AWS" height=50" width="50" src="https://www.svgrepo.com/show/353443/aws.svg">
-   <img align="center" alt="Heroku" height=50" width="50" src="https://w7.pngwing.com/pngs/434/165/png-transparent-heroku-original-wordmark-logo-icon.png">
+   <img align="center" alt="Heroku" height=50" width="50" src="https://cdn.iconscout.com/icon/free/png-256/free-heroku-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-3-pack-logos-icons-3032415.png">
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 <h2> Redes Sociais </h2>
   <a href="https://instagram.com/lgustavogdiass/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
