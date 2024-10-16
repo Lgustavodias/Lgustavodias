@@ -43,11 +43,6 @@ Bem-vindo ao meu perfil!
  | ----------- | ----------- |
 
 
- 
-##
-   <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=isaac545454&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
   
  
 
