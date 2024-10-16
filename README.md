@@ -56,11 +56,3 @@ Bem-vindo ao meu perfil!
   <a href="https://www.linkedin.com/in/luis-gustavo-gomes-dias-765258171/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Lgustavodias/Lgustavodias/output/snake.svg" alt="Snake animation" />
-
-###
-
