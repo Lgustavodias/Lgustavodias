@@ -11,7 +11,6 @@ Bem-vindo ao meu perfil!
 - 💻 Portifólio: https://lgustavodias.github.io/Portifolio/
 
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
-<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 <div style="display: inline_block"><br>
 
 <h2> Tecnologias Utilizadas </h2>
@@ -30,7 +29,6 @@ Bem-vindo ao meu perfil!
    <img align="center" alt="Linode" height=50" width="50" src="https://www.svgrepo.com/show/354002/linode.svg">
     <img align="center" alt="Asaas" height=50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_Asaas.png">
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
-<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 <h2> Redes Sociais </h2>
   <a href="https://instagram.com/lgustavogdiass/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lu-gustavo2011@live.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -43,7 +41,6 @@ Bem-vindo ao meu perfil!
  | ----------- | ----------- |
 
 
-<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
   
  
