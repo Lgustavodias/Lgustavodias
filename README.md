@@ -33,3 +33,46 @@ Bem-vindo ao meu perfil!
   <a href="https://instagram.com/lgustavogdiass/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lu-gustavo2011@live.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luis-gustavo-gomes-dias-765258171/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
+
+
+
+
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  
+
+  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaac545454&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaac545454&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+
+ 
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,nodejs,nest,docker,github,linux,postman,vercel,postgres,linkedin" />
+</a>
+  <br />
+
+  </div>
+
+ 
+##
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=isaac545454&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
+  
+ 
+
+
+
+
+
+
+ 
+  
+  
+
+  
+
+
+
